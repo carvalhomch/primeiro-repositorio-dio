@@ -1,2 +1,2 @@
-# primeiro-repositorio-dio
-Desafio de projeto sobre Git/GitHub da Digital Innovation One.
+# Desafio "Criando seu Primeiro Repositório no GitHub".
+Repositório do desafio "Criando seu Primeiro Repositório no GitHub" que faz parte do Bootcamp Carrefour da plataforma DIO.
